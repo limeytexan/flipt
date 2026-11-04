@@ -6,4 +6,4 @@ seconds and writes its name and the store paths of its catalog inputs.
 
 | package | build time | catalog inputs |
 |---|---|---|
-| `flipt` | 3 s | `python3Packages.flox-odin`, `python3Packages.flox-pigeon-client`, `python3Packages.gimme` |
+| `flipt` | 3 s | `flox`, `python3Packages.flox-odin`, `python3Packages.flox-pigeon-client`, `python3Packages.gimme` |
